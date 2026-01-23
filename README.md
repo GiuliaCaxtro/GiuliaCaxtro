@@ -1,10 +1,3 @@
-
- Instagram [GiuliiaCastro](https://www.instagram.com/giuliiacastro/).
-
- LinkedIn [GiuliaCastro](https://www.linkedin.com/in/giulia-castro-814623158/).
- 
-
-
 # 🙋🏽‍♀️ Giulia Castro
 
 **`Desenvolvedora Font end`**
@@ -18,7 +11,7 @@ Tenho interesse em aprender continuamente, colocar a mão na massa por meio de p
 
 <p align="left">
 
-    <a href="https://github.com/GiuliaCaxtro?tab=repositories&sort=stargazers">
+   <a href="https://github.com/GiuliaCaxtro?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
