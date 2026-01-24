@@ -3,7 +3,7 @@
 
 **`Desenvolvedora Font end`**
 
-Me chamo Giulia Castro, tenho 28 anos e sou natural de Dom Eliseu - PA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter, com foco em desenvolvimento Front End. Tenho interesse em criação de interfaces responsivas, usabilidade e aprendizado contínuo em tecnologias web como HTML, CSSe JavaScript.
+Me chamo Giulia Castro, tenho 28 anos e sou natural de Dom Eliseu - PA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter, com foco em desenvolvimento Front End. Tenho interesse em criação de interfaces responsivas, usabilidade e aprendizado contínuo em tecnologias web como HTML, CSS e JavaScript.
 Quero aprender continuamente, colocar a mão na massa por meio de projetos práticos e crescer profissionalmente na área de tecnologia e um dia me tornar FullStack.
 
 <p align="left">
