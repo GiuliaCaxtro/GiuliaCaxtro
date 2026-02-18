@@ -160,17 +160,19 @@ a.externo::after{
     margin: auto;
     max-width: 350px;
 }
-.imagem-maior{
-    width: 100%;
-    max-width: 1000px;
+.imagem-maior {
+  width: 100%;
+  max-height: 450px;
+  object-fit: cover;
 }
+
 div.videoyt{
     background-color: var(--cor5);
     display: flex;
     justify-content: center;
 }
 div.videoyt iframe{
-    max-width: 100%;
+    width: 90%;
 }
 
 /*
