@@ -59,6 +59,14 @@ Quero aprender continuamente, colocar a mão na massa por meio de projetos prát
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <br/>
 ### 📚 Estudando..
 <img
@@ -69,6 +77,16 @@ Quero aprender continuamente, colocar a mão na massa por meio de projetos prát
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="38px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
 
 <br/>
 
@@ -85,7 +103,7 @@ Quero aprender continuamente, colocar a mão na massa por meio de projetos prát
       align="left"
       alt="GitHub Stats"
       height="200"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GiuliaCaxtro&&theme=radical&&locale=pt-br&layout=compact&langs_count=9"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GiuliaCaxtro&size_weight=0.5&theme=radical&count_weight=0.5&locale=pt-br&layout=compact"
     />
 
 
