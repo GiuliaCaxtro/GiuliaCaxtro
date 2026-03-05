@@ -84,8 +84,8 @@ Quero aprender continuamente, colocar a mão na massa por meio de projetos prát
 <img
       align="left"
       alt="GitHub Stats"
-      height="300"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GiuliaCaxtro&layout=compact&theme=radical&langs_count=9&locale=pt-br"
+      height="200"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GiuliaCaxtro&&theme=radical&&locale=pt-br&layout=compact&langs_count=9"
     />
 
 
