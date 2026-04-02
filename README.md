@@ -100,14 +100,14 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
 ------
 <p>
  <img
-    align="center"
+    align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats-fast.vercel.app/api?username=GiuliaCaxtro&show_icons=true&theme=radical&locale=pt-br"
     />
 <img
-      align="center"
+      align="left"
       alt="GitHub Stats"
       height="200"
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GiuliaCaxtro&size_weight=0.5&theme=radical&count_weight=0.5&locale=pt-br&layout=compact"
@@ -123,7 +123,7 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
 
 
 
----
+
 
 
 
