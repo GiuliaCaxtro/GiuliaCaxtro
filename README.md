@@ -224,6 +224,13 @@ O objetivo foi praticar a **estrutura de um site completo**, trabalhando com:
 
 ---
 
+## Bradesco - GenAI & Dados (Bootcamp Dio) 
+Python para analise e organização de dados, usando inteligência artificial generativa, SQL, Excel, Power Query e Microsoft Copilot no dia a dia. Aprenda passo a passo com desafios guiados e atividades mão na massa, e desenvolva uma aplicação que conversa por voz com o ChatGPT usando Whisper (OpenAI) e Python. 
+
+**Em desenvolvimento..**
+
+---
+
 ## 📜 Projeto Cordel
 
 🔗 **Acessar projeto:**
