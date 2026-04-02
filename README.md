@@ -116,6 +116,8 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
 
 ---
 
+
+
 # 💻 Meus Projetos de Estudo em HTML e CSS
 
 Este repositório contém alguns projetos que desenvolvi enquanto estudava **HTML, CSS e JavaScript**.
