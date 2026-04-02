@@ -1,7 +1,7 @@
 
 # 🙋🏽‍♀️ Giulia Castro
 
-**`Desenvolvedora Font end`**
+**`Desenvolvedora Font-end`**
 
 Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter, com foco em desenvolvimento Front End. Tenho interesse em criação de interfaces responsivas, Conhecimentos e Desenvolvimento de projetos Front-End utilizando HTML, CSS e JavaScript, com prática em estruturação, estilização e interatividade de páginas web. 
 
@@ -40,6 +40,7 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
         />
     </a>
 </p>
+<br>
 
 ---
 
@@ -70,7 +71,9 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
+
 ### 📚 Estudando..
+
 <img
     align="left"
     alt="JavaScript"
@@ -93,6 +96,7 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
 <br/>
 
 ### 📊 Estatísticas
+------
 <p>
  <img
     align="left"
@@ -111,14 +115,18 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
 
 
 </p>
-</body>
-</html>
+
+<div style="clear: both;"></div>
+
+<br>
+
+
 
 ---
 
 
 
-# 💻 Meus Projetos de Estudo em HTML e CSS
+### 💻 Meus Projetos de Estudo em HTML e CSS
 
 Este repositório contém alguns projetos que desenvolvi enquanto estudava **HTML, CSS e JavaScript**.
 Cada projeto foi feito com foco em aprender conceitos específicos do desenvolvimento web.
@@ -126,8 +134,10 @@ Cada projeto foi feito com foco em aprender conceitos específicos do desenvolvi
 ---
 ## 🎬 Projeto Netflix com IA(Perfis)
 
-![Tela Projeto Netflix](projeto-netflix/assets/readme/image.png)
-<img src="projeto-netflix/assets/readme/Screenshot_7.png" alt="Logo" width="320" height="350" />
+![Tela Projeto Netflix](readme_img/image.png)
+<p align="center">
+<img src="readme_img/Screenshot_7.png" alt="Logo" width="320" height="350" />
+</p>
 
 🔗 Acessar pagina: https://giuliacaxtro.github.io/Meus-projetos/projeto-netflix/
 
@@ -159,7 +169,9 @@ Ele simula a tela de seleção de perfis da Netflix, com foco em **interface mod
 
 ![alt text](readme_img/Screenshot_2.png)
 
-<img src="readme_img/Screenshot_3.png" alt="Logo" width="320"  />
+<p align="center">
+  <img src="readme_img/Screenshot_3.png" alt="Logo" width="320" />
+</p>
 
 Projeto de **card de perfil profissional** desenvolvido com HTML e CSS, focado em design moderno, organização e responsividade.
 
@@ -194,6 +206,9 @@ Acesso repositório do projeto: https://github.com/GiuliaCaxtro/card-perfil
 ## 📱 Projeto Android
 
 ![alt text](readme_img/Screenshot_1.png)
+<p align="center">
+  <img src="readme_img/android_cel.png" alt="Logo" width="320" />
+</p>
 
 🔗 **Acessar projeto:**
 https://giuliacaxtro.github.io/Meus-projetos/projeto-android/
