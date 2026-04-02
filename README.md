@@ -40,6 +40,7 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
         />
     </a>
 </p>
+
 <br>
 
 ---
@@ -99,14 +100,14 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
 ------
 <p>
  <img
-    align="left"
+    align="center"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats-fast.vercel.app/api?username=GiuliaCaxtro&show_icons=true&theme=radical&locale=pt-br"
     />
 <img
-      align="left"
+      align="center"
       alt="GitHub Stats"
       height="200"
       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GiuliaCaxtro&size_weight=0.5&theme=radical&count_weight=0.5&locale=pt-br&layout=compact"
@@ -126,7 +127,7 @@ Me chamo Giulia Castro, tenho 28 anos e sou natural de Estado do Pará. Atualmen
 
 
 
-### 💻 Meus Projetos de Estudo em HTML e CSS
+# 💻 Meus Projetos de Estudo em HTML e CSS
 
 Este repositório contém alguns projetos que desenvolvi enquanto estudava **HTML, CSS e JavaScript**.
 Cada projeto foi feito com foco em aprender conceitos específicos do desenvolvimento web.
